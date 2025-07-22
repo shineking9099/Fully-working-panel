@@ -15,7 +15,7 @@ npm install fs
 npm install jsonwebtoken
 npm install multer
 npm install path
-
+And pubic folder create uploads folder they store images probably they create automatic  if you upload product.
 
 # 📂 BACKEND
 
